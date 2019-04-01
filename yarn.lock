@@ -2159,10 +2159,10 @@ eslint-config-airbnb@16.1.0:
   dependencies:
     eslint-config-airbnb-base "^12.1.0"
 
-eslint-config-cooperka@0.2.9:
-  version "0.2.9"
-  resolved "https://registry.yarnpkg.com/eslint-config-cooperka/-/eslint-config-cooperka-0.2.9.tgz#a93c8370aeec4090e01880b2b0e0715658ade4df"
-  integrity sha512-H9niibmuw54QbMXx8PGdttHVdj7vozxzGSGju7VqeC+PgFVAbPDetCQcX2ZzlG+cL4CyGvNJPKLTKA/rv3A71A==
+eslint-config-cooperka@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-cooperka/-/eslint-config-cooperka-1.0.1.tgz#4311a067e79a28310440fd93b5c0daa8654c1a24"
+  integrity sha512-6y+a8KwWi8RgxIQBCTCAK2WuL2UoJXhU56X7dJGc+SAaJeN4cA9sdL6ks7AeKYz/xeM9nnApbb+y7qbtkAMxRQ==
 
 eslint-import-resolver-node@^0.3.1:
   version "0.3.2"
